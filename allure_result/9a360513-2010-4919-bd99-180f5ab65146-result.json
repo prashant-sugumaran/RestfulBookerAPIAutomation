@@ -1,0 +1,40 @@
+{
+  "name": "Sample Testcase",
+  "status": "passed",
+  "start": 1729263053183,
+  "stop": 1729263053183,
+  "uuid": "07f7e118-03bb-43e2-997f-893aa87683de",
+  "historyId": "1760fe30b91eb5c86528c5eb441ff0dc",
+  "testCaseId": "1760fe30b91eb5c86528c5eb441ff0dc",
+  "fullName": "src.tests.test_sample#test_sample",
+  "labels": [
+    {
+      "name": "parentSuite",
+      "value": "src.tests"
+    },
+    {
+      "name": "suite",
+      "value": "test_sample"
+    },
+    {
+      "name": "host",
+      "value": "Prashants-MacBook-Pro.local"
+    },
+    {
+      "name": "thread",
+      "value": "46249-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "src.tests.test_sample"
+    }
+  ]
+}
